@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahmed-munir12
+- 👋 Hi, I’m ahmed-munir
 - 👀 I’m interested in html&css
 - 🌱 I’m currently learning progming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I need to help to learn more thing 
 - 📫 How to reach me ------
 
 <!---
